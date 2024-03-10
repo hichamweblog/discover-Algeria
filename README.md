@@ -29,7 +29,6 @@ The project utilizes the following technologies and features:
 - CSS3
 - Mobile-first design approach
 - Responsive design to ensure compatibility across various devices and screen sizes.
-- AOS - Animate on scroll library.
 - PhotoSwipe JavaScript image gallery and lightbox.
 
 ## How to Use
@@ -73,4 +72,3 @@ If you would like to contribute to this repository, feel free to open issues or 
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
-
